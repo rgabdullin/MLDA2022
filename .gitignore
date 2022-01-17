@@ -116,5 +116,4 @@ venv.bak/
 ## tonlib chaotically created temp blkstate files
 *.blkstate
 
-/.DS_Store
-
+.DS_Store
